@@ -1,5 +1,5 @@
 ﻿#Auto generated Octane revision tag
-@TID1001REV0.2.0
+@TID2005REV0.2.0
 Feature: BasketSelection
 	As a customer
 	I want to be able to add products to my basket 

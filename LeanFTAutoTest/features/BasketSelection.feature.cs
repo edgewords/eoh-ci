@@ -33,7 +33,7 @@ namespace LeanFTAutoTest.Features
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
             TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "BasketSelection", "\tAs a customer\r\n\tI want to be able to add products to my basket ", ProgrammingLanguage.CSharp, new string[] {
-                        "TID1001REV0.2.0"});
+                        "TID2005REV0.2.0"});
             testRunner.OnFeatureStart(featureInfo);
         }
         

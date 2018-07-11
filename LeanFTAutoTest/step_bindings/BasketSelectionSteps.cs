@@ -16,7 +16,7 @@ namespace LeanFTAutoTest.step_bindings
         [Given(@"I am on the shop web site")]
         public void GivenIAmOnTheShopWebSite()
         {
-            browser = BrowserFactory.Launch(BrowserType.Chrome);
+            browser = BrowserFactory.Launch(BrowserType.InternetExplorer);
             browser.Navigate("https://www.edgewordstraining.co.uk/demo-site");
         }
         

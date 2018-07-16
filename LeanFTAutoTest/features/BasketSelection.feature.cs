@@ -19,7 +19,7 @@ namespace LeanFTAutoTest.Features
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [NUnit.Framework.TestFixtureAttribute()]
     [NUnit.Framework.DescriptionAttribute("BasketSelection")]
-    [NUnit.Framework.CategoryAttribute("TID1001REV0.2.0")]
+    [NUnit.Framework.CategoryAttribute("TID2005REV0.2.0")]
     public partial class BasketSelectionFeature
     {
         
